@@ -1,0 +1,19 @@
+{
+  "name": "pothole-hunter",
+  "version": "1.0.0",
+  "description": "web interface for the pothole hunter project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkola/pothole-hunter-web.git"
+  },
+  "author": "nkola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nkola/pothole-hunter-web/issues"
+  },
+  "homepage": "https://github.com/nkola/pothole-hunter-web#readme"
+}
