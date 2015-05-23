@@ -15,5 +15,20 @@
   "bugs": {
     "url": "https://github.com/nkola/pothole-hunter-web/issues"
   },
-  "homepage": "https://github.com/nkola/pothole-hunter-web#readme"
+  "homepage": "https://github.com/nkola/pothole-hunter-web#readme",
+  "devDependencies": {
+    "karma": "^0.12.21",
+    "grunt": "^0.4.5",
+    "grunt-karma": "^0.8.3",
+    "load-grunt-tasks": "^0.6.0",
+    "karma-jasmine": "^0.1.5",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "grunt-protractor-runner": "^1.1.4",
+    "protractor": "~1.2.0",
+    "cucumber": "~0.4.4",
+    "grunt-run": "^0.2.4",
+    "request": "^2.44.0",
+    "selenium-standalone": "~2.43.1",
+    "grunt-shell": "~1.1.1"
+  }
 }
