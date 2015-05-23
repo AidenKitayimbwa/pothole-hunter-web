@@ -28,7 +28,7 @@
     "cucumber": "~0.4.4",
     "grunt-run": "^0.2.4",
     "request": "^2.44.0",
-    "selenium-standalone": "~2.43.1",
+    "selenium-standalone": "~2.44.0",
     "grunt-shell": "~1.1.1"
   }
 }
